@@ -11,7 +11,7 @@ Use backgroundify to move that function onto a background process.
 **backgroundify(pathToModule[, processTitle, numProcesses ])**
 
  - **pathToModule** is evaluated relative to the file in which backgroundify is required
- - **numProcess** defaults to `max(1, numCpus - 1)\
+ - **numProcess** defaults to `max(1, numCpus - 1)`
 
 ```js
 // fn.js
