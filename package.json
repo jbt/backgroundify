@@ -1,0 +1,12 @@
+{
+  "name": "backgroundify",
+  "version": "0.0.1",
+  "description": "Use separate node processes to run long synchronous functions",
+  "main": "lib/backgroundify.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbt/backgroundify.git"
+  },
+  "author": "JT <jt@gosquared.com>",
+  "license": "MIT"
+}
