@@ -24,7 +24,7 @@ module.exports = function(input){
 ```
 
 ```js
-var backgroundify = requlre('backgroundify');
+var backgroundify = require('backgroundify');
 
 // Execute './path/to/fn' on up to 4 concurrent background processes
 var fn = backgroundify('./path/to/fn', 'optional-process-title', 4);
